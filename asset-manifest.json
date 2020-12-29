@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trxsh-gang/static/css/main.aba53419.chunk.css",
+    "main.js": "/trxsh-gang/static/js/main.afb06a69.chunk.js",
+    "main.js.map": "/trxsh-gang/static/js/main.afb06a69.chunk.js.map",
+    "runtime-main.js": "/trxsh-gang/static/js/runtime-main.1d9641bc.js",
+    "runtime-main.js.map": "/trxsh-gang/static/js/runtime-main.1d9641bc.js.map",
+    "static/js/2.04a6cf14.chunk.js": "/trxsh-gang/static/js/2.04a6cf14.chunk.js",
+    "static/js/2.04a6cf14.chunk.js.map": "/trxsh-gang/static/js/2.04a6cf14.chunk.js.map",
+    "static/js/3.5d7b150a.chunk.js": "/trxsh-gang/static/js/3.5d7b150a.chunk.js",
+    "static/js/3.5d7b150a.chunk.js.map": "/trxsh-gang/static/js/3.5d7b150a.chunk.js.map",
+    "index.html": "/trxsh-gang/index.html",
+    "static/css/main.aba53419.chunk.css.map": "/trxsh-gang/static/css/main.aba53419.chunk.css.map",
+    "static/js/2.04a6cf14.chunk.js.LICENSE.txt": "/trxsh-gang/static/js/2.04a6cf14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d9641bc.js",
+    "static/js/2.04a6cf14.chunk.js",
+    "static/css/main.aba53419.chunk.css",
+    "static/js/main.afb06a69.chunk.js"
+  ]
+}
