@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/trxsh-gang/static/css/main.aba53419.chunk.css",
-    "main.js": "/trxsh-gang/static/js/main.62a55bf3.chunk.js",
-    "main.js.map": "/trxsh-gang/static/js/main.62a55bf3.chunk.js.map",
+    "main.css": "/trxsh-gang/static/css/main.710545de.chunk.css",
+    "main.js": "/trxsh-gang/static/js/main.f345e616.chunk.js",
+    "main.js.map": "/trxsh-gang/static/js/main.f345e616.chunk.js.map",
     "runtime-main.js": "/trxsh-gang/static/js/runtime-main.f7ce903a.js",
     "runtime-main.js.map": "/trxsh-gang/static/js/runtime-main.f7ce903a.js.map",
     "static/js/2.91627124.chunk.js": "/trxsh-gang/static/js/2.91627124.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.fcabb26a.chunk.js": "/trxsh-gang/static/js/3.fcabb26a.chunk.js",
     "static/js/3.fcabb26a.chunk.js.map": "/trxsh-gang/static/js/3.fcabb26a.chunk.js.map",
     "index.html": "/trxsh-gang/index.html",
-    "static/css/main.aba53419.chunk.css.map": "/trxsh-gang/static/css/main.aba53419.chunk.css.map",
+    "static/css/main.710545de.chunk.css.map": "/trxsh-gang/static/css/main.710545de.chunk.css.map",
     "static/js/2.91627124.chunk.js.LICENSE.txt": "/trxsh-gang/static/js/2.91627124.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f7ce903a.js",
     "static/js/2.91627124.chunk.js",
-    "static/css/main.aba53419.chunk.css",
-    "static/js/main.62a55bf3.chunk.js"
+    "static/css/main.710545de.chunk.css",
+    "static/js/main.f345e616.chunk.js"
   ]
 }
