@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/trxsh-gang/static/css/main.710545de.chunk.css",
-    "main.js": "/trxsh-gang/static/js/main.f345e616.chunk.js",
-    "main.js.map": "/trxsh-gang/static/js/main.f345e616.chunk.js.map",
+    "main.js": "/trxsh-gang/static/js/main.0b10f429.chunk.js",
+    "main.js.map": "/trxsh-gang/static/js/main.0b10f429.chunk.js.map",
     "runtime-main.js": "/trxsh-gang/static/js/runtime-main.f7ce903a.js",
     "runtime-main.js.map": "/trxsh-gang/static/js/runtime-main.f7ce903a.js.map",
     "static/js/2.91627124.chunk.js": "/trxsh-gang/static/js/2.91627124.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f7ce903a.js",
     "static/js/2.91627124.chunk.js",
     "static/css/main.710545de.chunk.css",
-    "static/js/main.f345e616.chunk.js"
+    "static/js/main.0b10f429.chunk.js"
   ]
 }
